@@ -110,6 +110,8 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+codealike.json
+cse212-project.sln
 
 # Chutzpah Test files
 _Chutzpah*
